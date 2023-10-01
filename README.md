@@ -50,3 +50,11 @@ In the fast-paced and high-stakes healthcare industry, our platform streamlines 
 •	Employ advanced techniques such as anomaly detection, pattern recognition, and data clustering to identify irregularities or suspicious behaviors in the supply chain network.
 
 •	Integrate the trained machine learning models into the platform to continuously monitor and analyze incoming data, providing real-time alerts and insights for potential risks or fraudulent activities.
+
+<hr>
+<h3>ScreenShots</h3>
+<img src="./screenshots/image1.png">Image 1</img>
+<img src="./screenshots/image2.png">Image 2</img>
+<img src="./screenshots/image3.png">Image 3</img>
+<img src="./screenshots/image4.png">Image 4</img>
+<img src="./screenshots/image5.png">Image 5</img>
